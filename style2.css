@@ -1,0 +1,41 @@
+
+body{
+    padding: 0;
+    
+}
+
+#container{
+    display:inline-block;
+    background-color:black;
+    overflow: auto;
+    width: 100%;
+    margin: 0 auto;
+    
+    
+}
+
+#container a{
+    display:inline-block;
+    width: 60px;
+    height: 50px;
+    padding: 12px 0;
+
+}
+
+
+.fa{
+    width:100%;
+
+}
+
+.fa-trash{
+    width: 100%;
+    
+}
+
+a:hover{
+    background-color: gray;
+}
+a:focus{
+    background-color: gray;
+ }
